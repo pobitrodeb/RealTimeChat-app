@@ -182,7 +182,7 @@ return [
         Illuminate\Validation\ValidationServiceProvider::class,
         Illuminate\View\ViewServiceProvider::class,
 
-        // \Chatify\ChatifyServiceProvider::class;
+        \Chatify\ChatifyServiceProvider::class,
 
         /*
          * Package Service Providers...
